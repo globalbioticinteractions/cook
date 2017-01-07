@@ -1,4 +1,7 @@
-# cookInteraction data shared by author Colt W. Cook with Jorrit Poelen by email on March 20, 2013.
+# cook
+[![Build Status](https://travis-ci.org/globalbioticinteractions/cook.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/cook)
+
+Interaction data shared by author Colt W. Cook with Jorrit Poelen by email on March 20, 2013.
 
 related article / master thesis:
  http://repositories.lib.utexas.edu/handle/2152/ETD-UT-2012-08-6285
