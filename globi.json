@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "cook"
+  "format": "cook",
+  "resources": {
+    "cook/cook_atlantic_croaker_data.csv": "cook_atlantic_croaker_data.csv"
+  }
 }
