@@ -1,7 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "cook",
-  "citation": "Cook, CW. 2012. The early life history and reproductive biology of Cymothoa excisa, a marine isopod parasitizing Atlantic croaker, (Micropogonias undulatus), along the Texas coast. 2012. Masters Thesis. Available at https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2012-08-6285 ."
+  "citation": "Cook, CW. 2012. The early life history and reproductive biology of Cymothoa excisa, a marine isopod parasitizing Atlantic croaker, (Micropogonias undulatus), along the Texas coast. 2012. Masters Thesis. Available at https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2012-08-6285 .",
   "resources": {
     "cook/cook_atlantic_croaker_data.csv": "cook_atlantic_croaker_data.csv"
   }
